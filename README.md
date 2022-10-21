@@ -1,48 +1,49 @@
 # Mastering Embedded System Online Diploma
 
-[![image](https://github.com/Mina-Karam/Master_Embedded_Systems/blob/master/Top%201.png)](https://www.learn-in-depth.com/online-diploma/minakaram.me%40gmail.com)
+<!-- [![image](.png)]() -->
 
 ---
 
 ## Contents
 
-### First Term ![image](https://progress-bar.dev/100/?title=Done)
+### First Term ![image](https://progress-bar.dev/20/)
 
-- [Unit 1: Diploma Prerequisites](https://github.com/Mina-Karam/Master_Embedded_Systems) ![image](https://progress-bar.dev/100/?title=No_Assignments&color=bababa)
-- [Unit 2: C Programming](Unit_2_C_Programming) ![image](https://progress-bar.dev/100/)
-- [Unit 3: Embedded C](Unit_3_Embedded_C) ![image](https://progress-bar.dev/100/)
-- [Unit 4: System Architect](Unit_4_System_Architecture) ![image](https://progress-bar.dev/100/)
-- [Unit 5: First Term Projects](Unit_5_First_Term_Projects) ![image](https://progress-bar.dev/100/)
-
----
-
-### Second Term ![image](https://progress-bar.dev/100/?title=Done&color=ff00ff)
-
-- [Unit 6: MCU Fundamentals](Unit_6_MCU_Fundamentals) ![image](https://progress-bar.dev/100/)
-- [Unit 7: MCU Essential Peripherals](Unit_7_MCU_Essential_Peripherals) ![image](https://progress-bar.dev/100/)
-- [Unit 8: MCU Interfacing](Unit_8_MCU_Interfacing) ![image](https://progress-bar.dev/100/)
-- [Unit 9: MCU Timers/ADC](Unit_9_MCU_Timer_%26_ADC) ![image](https://progress-bar.dev/100/)
-- [Unit 10: SW Testing/Validation](Unit_10_SW_Testing_Validation) ![image](https://progress-bar.dev/100/)
-- [Unit 11: Apply on Embedded Systems Jobs](https://github.com/Mina-Karam/Master_Embedded_Systems) ![image](https://progress-bar.dev/100/?title=Exams&color=bababa)
+- [Unit 1: Diploma Prerequisites](https://github.com/attiama-elsayed/Embedded_System_Online_Diploma) ![image](https://progress-bar.dev/100/)
+- [Unit 2: C Programming](https://github.com/attiama-elsayed/Embedded_System_Online_Diploma/tree/main/Unit2_C_Programming) ![image](https://progress-bar.dev/0/)
+- [Unit 3: Embedded C]() ![image](https://progress-bar.dev/0/)
+- [Unit 4: System Architecture]() ![image](https://progress-bar.dev/0/)
+- [Unit 5: First Term Projects]() ![image](https://progress-bar.dev/0/)
 
 ---
 
-### Third Term ![image](https://progress-bar.dev/0/?title=Start_Soon&color=ff0000)
+### Second Term ![image](https://progress-bar.dev/0/)
 
-- [Unit 12: Advanced Topics](https://github.com/Mina-Karam/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
-- [Unit 13: Automotive Protocols](https://github.com/Mina-Karam/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
-- [Unit 15: RTOS Basics](https://github.com/Mina-Karam/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
-- [Unit 16: AUTOSAR Basics](https://github.com/Mina-Karam/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
-- [Unit 17: Embedded Linux Basics](https://github.com/Mina-Karam/Master_Embedded_Systems) ![image](https://progress-bar.dev/0/)
-
----
-
-## Overall progress ![image](https://progress-bar.dev/2/?scale=3&title=Terms&suffix=&width=230&color=aa00ff)
-
-[![image](https://github.com/Mina-Karam/Master_Embedded_Systems/blob/master/Certification.png)](https://www.learn-in-depth.com/online-diploma/minakaram.me%40gmail.com)
+- [Unit 6: Microcontroller Fundamentals]() ![image](https://progress-bar.dev/0/)
+- [Unit 7: MCU Essential Peripherals]() ![image](https://progress-bar.dev/0/)
+- [Unit 8: MCU Interfacing]() ![image](https://progress-bar.dev/0/)
+- [Unit 9: MCU Timers/ADC]() ![image](https://progress-bar.dev/0/)
+- [Unit 10: SW Engineering (Testing & Validation)]() ![image](https://progress-bar.dev/0/)
+- [Unit 11: Second Term Projects]() ![image](https://progress-bar.dev/0/)
 
 ---
 
-## My Progress Profile: [Click Here](https://www.learn-in-depth.com/online-diploma/minakaram.me%40gmail.com)
+### Third Term ![image](https://progress-bar.dev/0/)
+
+- [Unit 12: Advanced Topics]() ![image](https://progress-bar.dev/0/)
+- [Unit 13: Automotives Protocols]() ![image](https://progress-bar.dev/0/)
+- [Unit 14: RTOS]() ![image](https://progress-bar.dev/0/)
+- [Unit 15: Design Pattern]() ![image](https://progress-bar.dev/0/)
+- [Unit 16: Introduction to AUTOSAR]() ![image](https://progress-bar.dev/0/)
+- [Unit 17: Introduction to Embedded Linux]() ![image](https://progress-bar.dev/0/)
+
+---
+
+<!-- ## Overall Progress ![image](https://progress-bar.dev/2/?scale=3&title=Terms&suffix=&width=100&color=babaca) -->
+
+<!-- [![image]()]() -->
+
+---
+
+<!-- ## My Progress Profile: [Click Here]() -->
 
 ---
