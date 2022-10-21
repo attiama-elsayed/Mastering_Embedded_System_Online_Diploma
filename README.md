@@ -1,7 +1,5 @@
 # Mastering Embedded System Online Diploma
 
-<!-- [![image](.png)]() -->
-
 ---
 
 ## Contents
